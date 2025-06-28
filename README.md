@@ -1,12 +1,5 @@
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LletaRamirez/LletaRamirez/master/assets/gradient.svg"
-       alt="gradient" width="100%"/>
-</p>
-
----
-
 <h1 align="center">Hi there 👋</h1>
 
 - 🎓 **Historian & Civic Education Teacher** at MEP Costa Rica  
