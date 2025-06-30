@@ -1,23 +1,13 @@
----
+Hi there 👋  
+I’m Lleta, a historian-turned-data-analyst on a mission to leverage Python and ML for social impact.
 
-<h1 align="center">Hi there 👋</h1>
+- 👩🏻‍🏫 Historian & Civic Education Teacher at MEP Costa Rica  
+- 💻 Data Analyst specializing in Python, R, SQL & Power BI  
+- 🚀 Volunteer at Rocket Girls  
+- ✨ Passionate about turning educational data into real-world solutions  
 
-- 🎓 **Historian & Civic Education Teacher** at MEP Costa Rica  
-- 📊 **Data Analyst** specialized in Python, R, SQL & Power BI  
-- 🚀 **Currently a volunteer at Rocket Girls
-- 💡 **Passionate about** Data Analysis
+🔗 [Explore my projects](https://github.com/EstefRZ99?tab=repositories)
 
----
+### Languages & Tools  
+<iconos de Python, R, PostgreSQL, Power BI, Git, etc.>
 
-### 🔧 Languages & Tools
-
-<p align="left">
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40"/></a>
-  <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="40"/></a>
-  <a href="https://powerbi.microsoft.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" alt="Power BI" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40"/></a>
-  <a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" width="40" height="40"/></a>
-</p>
-
----
